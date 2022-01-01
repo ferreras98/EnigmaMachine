@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="enigma_v3" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/enigma_v3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/enigma_v3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="BASEDATOS/cableadoRotores.cfg" />
+		<Unit filename="BASEDATOS/libro_M3_B.bin" />
+		<Unit filename="BASEDATOS/libro_M3_B.txt" />
+		<Unit filename="BASEDATOS/libro_M3_C.bin" />
+		<Unit filename="BASEDATOS/libro_M3_C.txt" />
+		<Unit filename="BASEDATOS/libro_M4_B.bin" />
+		<Unit filename="BASEDATOS/libro_M4_B.txt" />
+		<Unit filename="BASEDATOS/libro_M4_C.bin" />
+		<Unit filename="BASEDATOS/libro_M4_C.txt" />
+		<Unit filename="BASEDATOS/mensajeCifrado.txt" />
+		<Unit filename="BASEDATOS/mensajePlano.txt" />
+		<Unit filename="BASEDATOS/reflector.cfg" />
+		<Unit filename="Config/config.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Config/config.h" />
+		<Unit filename="LibroClaves/libroClaves.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LibroClaves/libroClaves.h" />
+		<Unit filename="Makefile" />
+		<Unit filename="Maquina/Enigma.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Maquina/Enigma.h" />
+		<Unit filename="Maquina/cifrado.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Maquina/cifrado.h" />
+		<Unit filename="Maquina/interfaz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Maquina/interfaz.h" />
+		<Unit filename="Maquina/reflector.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Maquina/reflector.h" />
+		<Unit filename="Maquina/rotores.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Maquina/rotores.h" />
+		<Unit filename="Maquina/stecker.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Maquina/stecker.h" />
+		<Unit filename="auxiliar/auxiliar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="auxiliar/auxiliar.h" />
+		<Unit filename="auxiliar/punto.h" />
+		<Unit filename="main/globals.h" />
+		<Unit filename="main/mainEnigma.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main/menus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main/menus.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

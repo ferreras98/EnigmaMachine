@@ -1,0 +1,37 @@
+GEHEIM!                        SS SONDER-PROJEKT ABTEILUNG                        Januar 1942
+
+---------------------------------------------------------------------------------------------
+|Tag |      Walzenlage      | Ringstellung  |      Steckerverbindungen      | Grundstellung |
+---------------------------------------------------------------------------------------------
+| 31 | Gamma I    VII  III  |  24 12 18 04  | BC FM KP RS GU TV IW OX HY EZ |    J F F W    |
+| 30 | Gamma VI   VIII IV   |  06 16 26 13  | IN MO JP HS CT EV FW DX GY LZ |    H M F Q    |
+| 29 | Gamma IV   VII  II   |  20 12 12 05  | AD IJ GN EP BQ KU MV FX TY SZ |    V L G E    |
+| 28 | Beta  IV   VI   VII  |  24 26 20 06  | GI FO MP JQ DR NT LV SW HX BY |    V R J Y    |
+| 27 | Gamma I    VII  IV   |  12 07 15 08  | GI CJ LP NR QS BU EW TX KY VZ |    H I B Y    |
+| 26 | Beta  IV   VI   VIII |  11 06 26 02  | AE DF IL MN GO CS HV BX WY TZ |    Y G Z T    |
+| 25 | Beta  VIII III  II   |  06 17 04 13  | AF DI JL GM HP ST BV OX QY WZ |    H L R N    |
+| 24 | Beta  V    IV   I    |  10 20 06 16  | DG CI EK AO LR BS PU NX FY QZ |    N I K X    |
+| 23 | Gamma VII  IV   V    |  05 14 06 06  | EF AM IO NQ BS JU TW PX HY LZ |    V Z R D    |
+| 22 | Beta  I    V    VIII |  09 04 07 10  | DE BL JN AP IQ HS KT MW VX FY |    E Z S G    |
+| 21 | Beta  V    VIII I    |  24 04 03 12  | BI HN DP LS RT EU KW OX FY VZ |    Z L M X    |
+| 20 | Gamma II   V    VIII |  12 11 21 06  | CI BJ LM EO FT DV RW UX AY NZ |    B G R M    |
+| 19 | Gamma IV   III  V    |  11 04 17 05  | CF BJ DL HR OT NU EV AW SX YZ |    Q V F X    |
+| 18 | Beta  VI   I    IV   |  01 19 14 04  | CD EG FI BS LT NV UW QX AY HZ |    C B D B    |
+| 17 | Beta  V    I    III  |  21 02 02 01  | HI CK MN LQ BR PS TV UX GY EZ |    J A L T    |
+| 16 | Gamma IV   I    III  |  12 05 06 26  | AC DL BR OS GT NU IV PW FX HY |    Q H A O    |
+| 15 | Beta  III  I    IV   |  13 02 14 03  | CE GJ DP AQ KR MS OU FV WX NZ |    T B G R    |
+| 14 | Beta  V    VI   II   |  22 07 02 22  | BD IJ HL CN AS OT PU GW QX RY |    O U V N    |
+| 13 | Beta  VI   II   IV   |  23 06 08 04  | IJ AM HN DO FR CS QT GV PX UY |    H M K H    |
+| 12 | Gamma VII  VI   VIII |  01 26 17 19  | CH GL AM BP EQ KT IU DW XY RZ |    E B D P    |
+| 11 | Gamma VII  III  IV   |  06 13 19 12  | EH GI CL OP JS AU NV BW TX FZ |    P Y S K    |
+| 10 | Beta  VI   I    III  |  05 04 24 17  | CK EO JQ DS AT GU BV RX PY WZ |    F N C Z    |
+|  9 | Gamma I    IV   V    |  03 08 12 13  | BH IJ CK NO DQ ER LS GT VY AZ |    C G I R    |
+|  8 | Gamma IV   VII  III  |  26 01 22 01  | DH CL NO KP JQ MR GS EV FY IZ |    O G Q U    |
+|  7 | Gamma VI   III  VIII |  05 04 19 09  | BJ FK EM GN CP AS HU DV WX IZ |    A L P J    |
+|  6 | Beta  I    V    VI   |  24 02 21 07  | BI DK GN EO LQ CR ST FU JV XZ |    B B J X    |
+|  5 | Gamma VIII IV   III  |  05 04 04 11  | BH GI CL DM EO PQ JR AT VX FZ |    W B Y T    |
+|  4 | Gamma VII  IV   V    |  07 01 16 03  | IK HL GM BR TU DV SW OX QY JZ |    O V I D    |
+|  3 | Beta  I    II   IV   |  15 15 03 23  | AE DK GN IO FQ PT LV RW MY XZ |    P S U O    |
+|  2 | Gamma III  V    IV   |  03 05 03 12  | AC BJ IP FQ DR MT SW KX HY GZ |    G G L P    |
+|  1 | Gamma VIII V    IV   |  26 18 03 21  | GH FJ AN EO LS IU DV PW RX CZ |    C A A E    |
+---------------------------------------------------------------------------------------------

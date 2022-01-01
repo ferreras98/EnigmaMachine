@@ -1,0 +1,37 @@
+GEHEIM!                    SS SONDER-PROJEKT ABTEILUNG                   Januar 1942
+
+------------------------------------------------------------------------------------
+|Tag |   Walzenlage   |Ringstellung|      Steckerverbindungen      | Grundstellung |
+------------------------------------------------------------------------------------
+| 31 | I    VIII III  |  26 02 12  | DK AP HQ NT MU CV OW JX RY BZ |     A L S     |
+| 30 | II   V    I    |  19 08 02  | CJ AK FL GO DS IT MV BW UX QZ |     C E T     |
+| 29 | VIII VII  I    |  20 04 26  | BH CI FJ MP AQ NT KV DX EY WZ |     M U P     |
+| 28 | IV   III  VI   |  24 14 22  | DE IJ AK FN MR CS HV BX QY OZ |     S G N     |
+| 27 | VII  III  II   |  16 22 26  | DK GL BR NS CU FV OW TX EY HZ |     U V K     |
+| 26 | VII  II   III  |  20 12 17  | AD FI GK CM HO ES TU RV XY PZ |     K R F     |
+| 25 | VI   III  VIII |  01 18 22  | FH IN JO EQ CR DS MU PV BW GY |     D B U     |
+| 24 | III  II   I    |  21 24 24  | DI KL CM BO AQ PU GV SW TX EZ |     Q R S     |
+| 23 | V    I    VI   |  24 12 08  | BD AL JM NP FQ IS KT GW HY OZ |     P Y K     |
+| 22 | VII  V    III  |  20 04 10  | HI BK LM FP RS DT EU OV NW GY |     P O E     |
+| 21 | VI   VIII IV   |  02 05 19  | BF LP AR IS HT QU KV MX CY DZ |     N C L     |
+| 20 | VI   V    VII  |  15 19 09  | EJ GK FL AO MS CV HW IX TY RZ |     L X R     |
+| 19 | V    III  VIII |  05 24 13  | CD AF IJ KT GU PV BW EX MY LZ |     X G Z     |
+| 18 | VI   VIII I    |  09 19 11  | BE CF DM GN AR LS KT HU IX OY |     Y N D     |
+| 17 | I    II   III  |  14 24 23  | AF GL MN KQ JR OS EU TW PX DZ |     Q F G     |
+| 16 | III  IV   I    |  24 16 08  | EH GI FL PR CU DV NW TX OY SZ |     W J W     |
+| 15 | I    IV   VI   |  25 04 20  | BF AH IN GO CR QV KW LX PY DZ |     F G G     |
+| 14 | I    IV   III  |  25 25 03  | AF HJ MP GQ ES RU BV OW KY DZ |     Z Z F     |
+| 13 | I    IV   III  |  25 26 03  | GH AJ EM NR CS IT DU OV BW YZ |     F A F     |
+| 12 | II   III  VIII |  06 10 04  | DL BP HQ MR CS JT OU EV WY FZ |     K A O     |
+| 11 | II   IV   VI   |  14 09 25  | DF BI LO HQ MR NS AT GW JY KZ |     M I C     |
+| 10 | VII  VI   VIII |  24 19 08  | HK CM FO AQ BS TU DV LX EY JZ |     N H R     |
+|  9 | II   III  I    |  14 22 18  | AH FI EK CP DQ NS MT OW GX RZ |     Y E I     |
+|  8 | IV   VIII VI   |  03 09 14  | CD AG HI JK EL FO QV SW UY TZ |     X K O     |
+|  7 | III  VII  II   |  17 04 05  | FM AN DQ IR GT PV OW KX BY EZ |     R Z C     |
+|  6 | VI   IV   I    |  09 11 16  | CE DH BI FJ AO MP KS GT LV RW |     M V Q     |
+|  5 | II   VII  V    |  07 24 12  | AF IO KP EQ BT HU LV NW RY GZ |     G F L     |
+|  4 | V    VI   VII  |  17 10 03  | CE IL JO GP HS RU DV TW BX NZ |     M T M     |
+|  3 | VIII V    IV   |  10 15 03  | BC EL OQ NS PU MV IW TX RY DZ |     G I X     |
+|  2 | VII  I    VI   |  24 10 15  | FI MO LR PS AT HU QV CW NY EZ |     A Q W     |
+|  1 | IV   II   VIII |  21 25 09  | JL FP BR CT NU SV MW HX EY GZ |     E Q V     |
+------------------------------------------------------------------------------------
